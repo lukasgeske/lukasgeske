@@ -2,10 +2,9 @@
 
 <h1>Merhabalar!</h1>
 <div style="display: flex;">
-    <img src="https://media.tenor.com/m97ACRCSn_kAAAAM/hello-minion.gif" alt="Örnek Resim" style="width: 200px; height: 200px; margin-right: 80px;">
-    <img src="https://media3.giphy.com/media/1fYi7IQLtBuRm2nPNo/200w.gif" alt="Örnek Resim" style="width: 200px; height: 200px;margin-left: 378px;">
+    <img src="https://media.tenor.com/m97ACRCSn_kAAAAM/hello-minion.gif" alt="Örnek Resim" style="width: 200px; height: 200px; margin-right: 20px;">
+    <img src="https://media3.giphy.com/media/1fYi7IQLtBuRm2nPNo/200w.gif" alt="Örnek Resim" style="width: 200px; height: 200px; margin-left: 378px;">
 </div>
-
 
 <!--
 **lukasgeske/lukasgeske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
