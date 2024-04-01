@@ -6,25 +6,51 @@
     <img src="https://media3.giphy.com/media/1fYi7IQLtBuRm2nPNo/200w.gif" alt="Örnek Resim" style="width: 200px; height: 200px; margin-left: 10rem;">
 </div>
 
-#container {
-    position: relative;
-    overflow: hidden;
-    width: 300px;
-    height: 300px;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake Animation</title>
+    <style>
+        #container {
+            position: relative;
+            overflow: hidden;
+            width: 300px;
+            height: 300px;
+        }
 
-#snake {
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    background-image: url('yilan.gif'); /* yilan.gif dosyanızın yolunu belirtin */
-    animation: moveSnake 5s infinite linear;
-}
+        #snake {
+            position: absolute;
+            width: 100px;
+            height: 100px;
+            <img src="https://media0.giphy.com/media/cRNariZnMvcSTd9bMT/giphy.gif?cid=6c09b952a1devmaouk6t4wkp0hp0fjl381i72eq74cie1v0b&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Yılan Animasyonu"/>
+            animation: moveSnake 5s infinite linear;
+        }
 
-@keyframes moveSnake {
-    0% { left: -100px; }
-    100% { left: calc(100% + 100px); }
-}
+        @keyframes moveSnake {
+            0% { left: -100px; }
+            100% { left: calc(100% + 100px); }
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h1>Merhaba</h1>
+        <div id="snake"></div>
+    </div>
+</body>
+</html>
+
+
+        <div id="snake"></div>
+    </div>
+</body>
+</html>
+        <div id="snake"></div>
+    </div>
+</body>
+</html>
 
 
 <!--
