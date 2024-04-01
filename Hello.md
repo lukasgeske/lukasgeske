@@ -3,7 +3,7 @@
 <h1>Merhabalar!</h1>
 <div style="display: flex;">
     <img src="https://media.tenor.com/m97ACRCSn_kAAAAM/hello-minion.gif" alt="Örnek Resim" style="width: 200px; height: 200px; margin-right: 20px;">
-    <img src="https://media3.giphy.com/media/1fYi7IQLtBuRm2nPNo/200w.gif" alt="Örnek Resim" style="width: 200px; height: 200px;">
+    <img margin-right= 50 src="https://media3.giphy.com/media/1fYi7IQLtBuRm2nPNo/200w.gif" alt="Örnek Resim" style="width: 200px; height: 200px;">
 </div>
 
 
