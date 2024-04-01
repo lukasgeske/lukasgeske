@@ -2,7 +2,8 @@
 
 <h1>  Lukas Geske</h1>
 
-<img width="50" src="https://media1.giphy.com/media/1jf43Ml3ckkoHO7Fev/200w.gif?cid=6c09b952cxepukjgiwya7nt4ozo91so1kub9caqw0oim2a78&ep=v1_videos_search&rid=200w.gif&ct=v" alt="Örnek Resim"/>
+<img width="50" src="https://media1.giphy.com/media/1jf43Ml3ckkoHO7Fev/200w.gif?cid=6c09b952cxepukjgiwya7nt4ozo91so1kub9caqw0oim2a78&ep=v1_videos_search&rid=200w.gif&ct=v" alt="Örnek Resim"/>  
+...
 
 
 <!--
@@ -14,6 +15,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python
 - 💬 Ask me about: Anything
 - 📫 How to reach me: e-Mail
-- 😄 Pronouns: As wl all know there's only 2. I'm a Male, so he/him is good.
-- ⚡ Fun fact: I love sewing.
+- 😄 Pronouns: As wl all know there's.
 -->
