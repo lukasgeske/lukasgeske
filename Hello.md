@@ -1,8 +1,8 @@
 ### Lukas Geske
 
-<h1>  Giriş </h1>
+<h1>Merhabalar!</h1>
 
-src="https://media1.giphy.com/media/1jf43Ml3ckkoHO7Fev/200w.gif?cid=6c09b952cxepukjgiwya7nt4ozo91so1kub9caqw0oim2a78&ep=v1_videos_search&rid=200w.gif&ct=v" alt="Örnek Resim"/>  
+<img  src="https://media1.giphy.com/media/1jf43Ml3ckkoHO7Fev/200w.gif?cid=6c09b952cxepukjgiwya7nt4ozo91so1kub9caqw0oim2a78&ep=v1_videos_search&rid=200w.gif&ct=v" alt="Örnek Resim"/>  
 
 
 
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python
 - 💬 Ask me about: Anything
 - 📫 How to reach me: e-Mail
-- 😄 Pronouns: As wl all know there's.
+- 😄 Pronouns: As wl all know there's just 2 and I'm a male.
 -->
