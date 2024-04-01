@@ -1,9 +1,7 @@
 ### Lukas Geske
 
 <h1>Merhabalar!</h1>
-
-<img src="https://media.tenor.com/m97ACRCSn_kAAAAM/hello-minion.gif" alt='Resim 2"/>  
-
+<img src="https://media.tenor.com/m97ACRCSn_kAAAAM/hello-minion.gif" alt="Örnek Resim"/>
 
 
 <!--
