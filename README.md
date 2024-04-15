@@ -3,7 +3,6 @@
 <h1>Merhabalar!</h1>
 <h2>I'm trying to put a few things together through coding. Let's hope it works.</h2>
 <div style="display: flex;">
-   
     <img src="https://i.pinimg.com/originals/d0/27/6a/d0276ad64c6fdaf24cca226ec526c473.gif" alt="Örnek Resim" style="width: 400px; height: 200px; margin-left: 10rem;">
 </div>
 
